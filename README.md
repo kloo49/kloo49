@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi! I'm Kelly Loo (she/her)
+[Bren Profile](https://bren.ucsb.edu/people/kelly-loo)
 
+I am Kelly Loo, a current Master's student in Environmental Data Science at Bren School of Environmental Science and Management at University of California, Santa Barbara. I am passionate about natural disaster and hazard work, and the intersection between the environment and data. I've worked in R and Python.
+
+### What am I doing? What have I done?
+- Lab Assistant at Haase Lab at Scripps Institution of Oceanography
+
+### Education
+Bachelor of Science in Geoscience at Univeristy of California, San Diego.
 <!--
 **kloo49/kloo49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
